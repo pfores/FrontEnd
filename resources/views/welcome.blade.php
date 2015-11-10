@@ -9,7 +9,6 @@
                 <div id="hello" class="title">HOLA</div>
             </div>
         </div>
-        <script src="https://code.jquery.com/jquery.js"></script>
-        <script src="/js/main.js"></script>
+        <script src="/js/bundle.js"></script>
     </body>
 </html>

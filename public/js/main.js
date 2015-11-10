@@ -1,6 +1,8 @@
 /**
  * Created by pau on 10/11/15.
  */
-$("#hello").html('Hello World');
+//alert('Hello world 2');
 
-alert('Hello world 2');
+var hello = require('./hello');
+
+hello();
